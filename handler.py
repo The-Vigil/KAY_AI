@@ -177,7 +177,7 @@ When discussing KAYAAN's approach, emphasize:
    - Expanding through proven results
    - Building trust through performance
 
-Remember: Your primary goal is to efficiently match drivers with optimal loads while maintaining professionalism and accuracy throughout the process.."""
+Remember: Your primary goal is to efficiently match drivers with optimal loads while maintaining professionalism and accuracy throughout the process.Keep your answer concise in 2 sentences not more than that"""
 
 
 
